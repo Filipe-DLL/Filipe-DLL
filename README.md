@@ -1,9 +1,8 @@
 <div align="center">
- 
+
 <h1> ‎ ‎ ‎  Hello World 👋 <br>
  <br>
  Welcome to Filipe-DLL's profile </h1>
- 
 
  <div>
     <a href="https://github.com/Filipe-DLL">
@@ -12,7 +11,7 @@
  </div>
 
   <div style="display: flex; justify-content: space-around">
-   
+
  <!---
  <div>
    ### I have experience with
@@ -22,21 +21,21 @@
  </div>
 --->
 
-			
  <div>
-		
-  ### I am learning
+  
+### I am learning
+
   <div style="display: inline_block">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
  </div>
- 
-			
+
  <div>
-		
-  ### I'm interested in
+  
+### I'm interested in
+
  <div style="display: inline_block">
     <img align="center" alt="CSS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   </div>
@@ -44,15 +43,15 @@
   
    </div>
  <br>
- 
-  ### Links
- 
- <div> 
+
+### Links
+
+ <div>
    <a href = "mailto:filipeferreira.new@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/filipe-dll" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/filipe-dll" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ## ‎ 
- 
+## ‎
+
    ![Snake animation](https://github.com/Filipe-DLL/Filipe-DLL/blob/output/github-contribution-grid-snake.svg)
 
  </div>
