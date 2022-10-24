@@ -2,7 +2,7 @@
  
 <h1> ‎ ‎ ‎  Hello World 👋 <br>
  <br>
- Welcome to Filipe-DLL's profile <h1>
+ Welcome to Filipe-DLL's profile </h1>
  
 
  <div>
@@ -11,26 +11,38 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Filipe-DLL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
  </div>
 
+  <div style="display: flex; justify-content: space-around">
+   
  <!---
-  ### I have experience with
- <div style="display: inline_block">
+ <div>
+   ### I have experience with
+  <div style="display: inline_block">
  
+  </div>
  </div>
 --->
 
- ### I am learning
- <div style="display: inline_block">
-   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+			
+ <div>
+		
+  ### I am learning
+  <div style="display: inline_block">
+    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
  </div>
  
- 
+			
+ <div>
+		
   ### I'm interested in
  <div style="display: inline_block">
     <img align="center" alt="CSS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  </div>
  </div>
- 
+  
+   </div>
  <br>
  
   ### Links
