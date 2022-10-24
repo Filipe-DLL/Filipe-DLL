@@ -1,6 +1,6 @@
 <div align="center">
-
- # Bem-vindo(a) ao perfil do Filipe-DLL 
+ # Hello World 👋
+ ## Hello, welcome to Filipe-DLL's profile
 
  <div>
     <a href="https://github.com/Filipe-DLL">
@@ -9,13 +9,13 @@
  </div>
 
  <!---
-  ### Tenho experiência
+  ### I have experience with
  <div style="display: inline_block">
  
  </div>
 --->
 
- ### Estou estudando
+ ### I am learning
  <div style="display: inline_block">
    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,7 +23,7 @@
  </div>
  
  
-  ### Tenho interesse
+  ### I'm interested in
  <div style="display: inline_block">
     <img align="center" alt="CSS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  </div>
