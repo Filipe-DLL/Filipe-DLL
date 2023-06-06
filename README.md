@@ -28,7 +28,7 @@
 
  <div>
   
-  <!-- 
+
 ### I am learning
 
   // <div style="display: inline_block"> 
@@ -37,7 +37,7 @@
  </div>
 
  <div> 
--->
+
 
   
 ### I'm interested in
