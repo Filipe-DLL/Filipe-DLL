@@ -24,23 +24,23 @@
 ### I am learning
 
   <div style="display: inline_block"> 
-    
-  </div>
- </div>
-
- <div>
-  
-### I'm interested in
-
- <div style="display: inline_block">
     <img align="center" alt="TtpeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="NEXT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   </div>
  </div>
-  
+
+ <div>
+  <!--
+### I'm interested in
+
+ <div style="display: inline_block">
+    
+  </div>
+ </div>
+   -->
    </div>
  <br>
-  
+ 
  ### Links
  <div>
   
