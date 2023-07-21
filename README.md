@@ -38,7 +38,9 @@
 <a href="https://discord.com/users/403682043373944852" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-  
+
+<!--
 ![Snake animation](https://github.com/Filipe-DLL/Filipe-DLL/blob/output/github-contribution-grid-snake.svg)
-     
+-->
+
 </div>
