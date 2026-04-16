@@ -50,10 +50,6 @@
   </div>
 
   <br>
-
-  <div align="center">
-      <img align="center" alt="Contador de visitas de Filipe-DLL" src="https://profile-counter.glitch.me/Filipe-DLL/count.svg" />
-  </div>
   
   </div>
 
